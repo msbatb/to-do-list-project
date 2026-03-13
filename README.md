@@ -5,8 +5,6 @@ This project allows users to add and delete tasks easily.
 
 - Add new tasks
 - Delete tasks
-- Simple and clean user interface
-- Beginner-friendly JavaScript project
 
 ## 🎯 Learning Goals
 - This project helped me understand:
